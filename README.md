@@ -169,5 +169,8 @@ The model struggles most with:
 - **Evaluation Methods**: Confusion matrix analysis, precision-recall metrics, and error pattern identification
 - **Visualization**: Activation mapping and performance metric plotting
 
+## Author
+Eric Uehling
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
