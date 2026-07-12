@@ -1,0 +1,18 @@
+[project]
+name = "dog-breed-classifier"
+version = "1.0.0"
+description = "CNN-based dog breed classifier achieving 95% accuracy across 70 breeds using ensemble learning"
+authors = [{name = "Eric Uehling", email = "Eric.Uehling@anikasystems.com"}]
+license = {text = "MIT"}
+requires-python = ">=3.11"
+dependencies = [
+  "numpy==1.26.4",
+  "pandas==2.2.2",
+  "matplotlib==3.8.4",
+  "seaborn==0.13.2",
+  "tqdm==4.66.4",
+  "torch==2.6.0",
+  "torchvision==0.21.0",
+  "Pillow==10.3.0",
+  "scikit-learn==1.4.2",
+]
