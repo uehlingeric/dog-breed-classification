@@ -81,6 +81,6 @@ Training dataset: 7,946 labeled dog images (train 7,946, validation 700, test 20
 - Model trained on RTX 4070; CPU inference speed not measured
 - No incremental learning; retraining required for new breed classes
 
-## License & Status
+## License
 
-MIT © Eric Uehling. Built as a portfolio project; not accepting contributions.
+MIT © Eric Uehling.
